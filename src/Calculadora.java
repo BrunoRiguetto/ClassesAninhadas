@@ -5,7 +5,7 @@ public class Calculadora {
 	public static void main(String[] args) {
 		
 		
-		double numero1 = Double.parseDouble(JOptionPane.showInputDialog("Insira o primeiro numero:"));
+	    double numero1 = Double.parseDouble(JOptionPane.showInputDialog("Insira o primeiro numero:"));
 
 	    double numero2 = Double.parseDouble(JOptionPane.showInputDialog("Insira o segundo numero:"));
 	    
