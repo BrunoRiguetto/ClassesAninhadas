@@ -1,7 +1,9 @@
 
-public interface Operacao {
+public class Operacao {
 
-	public double calcular(double a, double b);
+	public double calcular(double a, double b) {
+		return 0;
+	}
 	
 }
 
